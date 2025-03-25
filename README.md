@@ -164,7 +164,7 @@ ws.onmessage = (event) => {
 
 ## Roadmap
 
-### Phase 1: Foundation (Q2 2024)
+### Phase 1: Foundation Phase (Q1-Q2 2025)
 - [x] Core platform architecture
 - [x] Real-time market data integration
 - [x] Basic technical indicators
@@ -173,7 +173,7 @@ ws.onmessage = (event) => {
 - [ ] Performance optimization
 - [ ] Initial user testing and feedback
 
-### Phase 2: Enhancement (Q3 2024)
+### Phase 2: Product Development (Q2-Q3 2025)
 - [ ] Advanced technical indicators
   - [ ] Ichimoku Cloud
   - [ ] Elliott Wave
@@ -191,7 +191,7 @@ ws.onmessage = (event) => {
   - [ ] Caching system
   - [ ] Documentation
 
-### Phase 3: Expansion (Q4 2024)
+### Phase 3: Ecosystem Expansion (Q4 2025-Q1 2026)
 - [ ] Multi-asset support
   - [ ] Cryptocurrencies
   - [ ] Stocks
@@ -209,7 +209,7 @@ ws.onmessage = (event) => {
   - [ ] Custom indicators
   - [ ] Advanced reporting
 
-### Phase 4: Innovation (Q1 2025)
+### Phase 4: Innovation (Q2-Q3 2026)
 - [ ] AI-powered insights
   - [ ] Predictive analytics
   - [ ] Automated trading signals
@@ -227,7 +227,7 @@ ws.onmessage = (event) => {
   - [ ] Advanced security
   - [ ] Custom integrations
 
-### Future Considerations
+### Future Considerations (Q4 2026+)
 - [ ] Decentralized data feeds
 - [ ] Cross-chain analysis
 - [ ] DeFi integration
