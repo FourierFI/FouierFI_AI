@@ -9,6 +9,10 @@
     <a href="https://fourierfi.xyz">Website</a> •
     <a href="https://x.com/AI_FourierFI">Twitter</a>
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen" alt="Status" />
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License" />
+  </p>
 </div>
 
 ## Overview
