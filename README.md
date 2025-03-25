@@ -17,7 +17,9 @@
 
 ## Overview
 
-FourierFi is a cutting-edge financial analysis platform that leverages advanced mathematical models and real-time market data to provide sophisticated trading insights. Our platform combines traditional technical analysis with innovative frequency domain analysis to offer a unique perspective on market movements.
+FourierFi is a cutting-edge decentralized finance platform that combines the mathematical precision of Fourier transforms with blockchain technology and artificial intelligence. By converting time-domain data into frequency-domain perspectives, FourierFi reveals hidden market structures and opportunities that traditional analysis methods cannot identify.
+
+Our core engine features specialized Fourier transform capabilities optimized for financial time series, including multi-resolution spectrum analysis, harmonic recognition, and phase consistency measurement. This innovative approach provides traders and investors with unprecedented insights into market cycles and patterns.
 
 ## Key Features
 
@@ -52,6 +54,36 @@ FourierFi is a cutting-edge financial analysis platform that leverages advanced 
 - **Historical Data**: Access to historical price data
 - **Custom Indicators**: Create and save custom technical indicators
 - **Data Visualization**: Multiple chart overlays and indicators
+
+## Releases
+
+### v0.1.0-alpha (Q1 2025)
+- Initial proof of concept release
+- Core FFT engine implementation
+- Basic frequency domain analysis tools
+- Early UI prototype with basic charting
+- Local testing environment
+
+### v0.2.0-alpha (Q2 2025)
+- Improved FFT algorithm optimization
+- Expanded technical indicators
+- WebSocket integration for real-time data
+- Initial smart contract interface
+- Basic token integration
+
+### v0.3.0-beta (Q3 2025)
+- SpectrumView™ beta interface launch
+- Enhanced frequency domain visualization
+- Comprehensive indicator suite
+- Integration with multiple data sources
+- Advanced charting capabilities
+
+### v1.0.0 (Q1 2026)
+- Full platform launch
+- Complete trading functionality
+- Advanced AI analysis features
+- Quantum VaultPools™ deployment
+- Comprehensive documentation and API support
 
 ## Technical Stack
 
