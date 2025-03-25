@@ -1,7 +1,7 @@
 # FourierFi
 
 <div align="center">
-  <img src="public/logo.png" alt="FourierFi Logo" width="200" />
+  <img src="public/logo-new.png" alt="FourierFi Logo" width="200" />
   <p>
     <strong>FourierFi</strong> - Advanced Financial Analysis Platform
   </p>
