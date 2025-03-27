@@ -7,7 +7,7 @@
   </p>
   <p>
     <a href="https://fourierfi.xyz">Website</a> •
-    <a href="https://x.com/AI_FourierFI">Twitter</a>
+    <a href="https://x.com/FourierFi_AI">Twitter</a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen" alt="Status" />
